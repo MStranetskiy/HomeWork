@@ -1,0 +1,7 @@
+D:\HomeWork\TASK1\Task1\Task1\bin\Release\Task1.exe.config
+D:\HomeWork\TASK1\Task1\Task1\bin\Release\Task1.exe
+D:\HomeWork\TASK1\Task1\Task1\bin\Release\Task1.pdb
+D:\HomeWork\TASK1\Task1\Task1\obj\Release\Task1.csproj.AssemblyReference.cache
+D:\HomeWork\TASK1\Task1\Task1\obj\Release\Task1.csproj.CoreCompileInputs.cache
+D:\HomeWork\TASK1\Task1\Task1\obj\Release\Task1.exe
+D:\HomeWork\TASK1\Task1\Task1\obj\Release\Task1.pdb
