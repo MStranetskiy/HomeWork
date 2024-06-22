@@ -12,7 +12,7 @@ namespace Task1
         private static string nameUser = "";
         private static bool authorization = false;
         private static List<string> listMenu = new List<string> { "Авторизация", "Помощь", "Инфо", "Выход" };
-        private static double version = 0.0001;
+        private static string version = "0.0001";
 
         static void Main(string[] args)
         {
