@@ -1,0 +1,7 @@
+D:\HomeWork\Task2\bin\Debug\Task2.exe.config
+D:\HomeWork\Task2\bin\Debug\Task2.exe
+D:\HomeWork\Task2\bin\Debug\Task2.pdb
+D:\HomeWork\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\HomeWork\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\HomeWork\Task2\obj\Debug\Task2.exe
+D:\HomeWork\Task2\obj\Debug\Task2.pdb
