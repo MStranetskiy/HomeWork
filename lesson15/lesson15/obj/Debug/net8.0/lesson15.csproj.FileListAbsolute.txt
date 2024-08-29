@@ -1,0 +1,15 @@
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.AssemblyInfoInputs.cache
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.AssemblyInfo.cs
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.csproj.CoreCompileInputs.cache
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.sourcelink.json
+D:\HomeWork\lesson15\lesson15\bin\Debug\net8.0\lesson15.exe
+D:\HomeWork\lesson15\lesson15\bin\Debug\net8.0\lesson15.deps.json
+D:\HomeWork\lesson15\lesson15\bin\Debug\net8.0\lesson15.runtimeconfig.json
+D:\HomeWork\lesson15\lesson15\bin\Debug\net8.0\lesson15.dll
+D:\HomeWork\lesson15\lesson15\bin\Debug\net8.0\lesson15.pdb
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.dll
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\refint\lesson15.dll
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.pdb
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\lesson15.genruntimeconfig.cache
+D:\HomeWork\lesson15\lesson15\obj\Debug\net8.0\ref\lesson15.dll
